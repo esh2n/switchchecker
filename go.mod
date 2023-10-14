@@ -1,4 +1,4 @@
-module switchchecker
+module github.com/esh2n/switchchecker
 
 go 1.19
 

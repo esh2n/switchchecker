@@ -1,7 +1,7 @@
 package main
 
 import (
-	"switchchecker"
+	"github.com/esh2n/switchchecker"
 
 	"golang.org/x/tools/go/analysis/unitchecker"
 )

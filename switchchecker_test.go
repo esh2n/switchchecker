@@ -3,7 +3,7 @@ package switchchecker_test
 import (
 	"testing"
 
-	"switchchecker"
+	"github.com/esh2n/switchchecker"
 
 	"github.com/gostaticanalysis/testutil"
 	"golang.org/x/tools/go/analysis/analysistest"
