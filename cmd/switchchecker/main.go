@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/esh2n/switchchecker"
 
-	"golang.org/x/tools/go/analysis/unitchecker"
+	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
-func main() { unitchecker.Main(switchchecker.Analyzer) }
+func main() { singlechecker.Main(switchchecker.Analyzer) }
