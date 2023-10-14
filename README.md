@@ -4,7 +4,7 @@
 
 # Install
 ```
-$ go get github.com/esh2n/switchchecker/cmd/switchchecker
+$ go install github.com/esh2n/switchchecker/cmd/switchchecker
 ```
 
 # How to use
